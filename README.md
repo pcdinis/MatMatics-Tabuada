@@ -9,4 +9,7 @@ I used LeanTween as external library to get all the animations within the game.
 
 # Play the game
 
-Download the game from Google Play Store searching for "pcdinis". Have fun!
+Download the game from Google Play Store:
+https://play.google.com/store/apps/details?id=com.annoyinGames.MatMaticsTabuada
+
+Have fun!
